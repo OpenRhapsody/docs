@@ -11,7 +11,7 @@
 
 ## 목차
 
-- [퀵스타트: 광고 플랫폼 생성하기](./01-quickstart.md)
+- ⚡ [퀵스타트: 3분 배포](./01-quickstart.md)
 - [광고 플랫폼 생성하기](./02-create-ad-platform.md)
 - [광고 플랫폼 설정하기](./03-edit-ad-platform.md)
 - [대시보드](./04-dashboard.md)

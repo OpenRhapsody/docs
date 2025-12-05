@@ -8,12 +8,9 @@
 
 ## 1. 시작하기
 
-👉 상세 내용: [doc-01-start.md](./doc-01-start.md)
+👉 상세 내용: [getting-started/index.md](./getting-started/index.md)
 
 - 광고 수익화 시작부터 성공까지, 애드컨트롤
-- 핵심 가치
-- 주요 기능
-- 고객 성공 사례
 - 이런 문제를 해결해요
 - 이렇게 작동합니다
 - 매체사 퀵스타트
@@ -23,14 +20,14 @@
 
 ## 2. 광고 플랫폼 배포
 
-👉 상세 내용: [doc-02/index.md](./doc-02/index.md)
+👉 상세 내용: [ad-platform/index.md](./ad-platform/index.md)
 
-- [퀵스타트: 광고 플랫폼 생성하기](./doc-02/01-quickstart.md)
-- [광고 플랫폼 생성하기](./doc-02/02-create-ad-platform.md)
-- [광고 플랫폼 설정하기](./doc-02/03-edit-ad-platform.md)
-- [대시보드](./doc-02/04-dashboard.md)
-- [결제 및 청구](./doc-02/05-billing.md)
-- [멤버 관리](./doc-02/06-members.md)
+- ⚡ [퀵스타트: 3분 배포](./ad-platform/01-quickstart.md)
+- [광고 플랫폼 생성하기](./ad-platform/02-create-ad-platform.md)
+- [광고 플랫폼 설정하기](./ad-platform/03-edit-ad-platform.md)
+- [대시보드](./ad-platform/04-dashboard.md)
+- [결제 및 청구](./ad-platform/05-billing.md)
+- [멤버 관리](./ad-platform/06-members.md)
 
 ---
 
