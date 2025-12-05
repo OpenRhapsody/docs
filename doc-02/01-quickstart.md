@@ -16,7 +16,7 @@
 
 ## 단계별 가이드
 
-<video src="https://github.com/OpenRhapsody/docs/raw/master/doc-02/assets/create-ad-platform.mp4" controls autoplay loop muted playsinline width="600"></video>
+[▶ 영상 보기](./assets/create-ad-platform.mp4)
 
 1. 서비스 이름 입력 (2~20자, 한글/영문/숫자)
 2. 로고 이미지 업로드
