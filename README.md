@@ -47,23 +47,18 @@
 
 ## 4. 광고 상품 만들기
 
-👉 상세 내용: [plan-04-ad-product.md](./plan-04-ad-product.md)
+👉 상세 내용: [ad-product/index.md](./ad-product/index.md)
 
-- ⚡ 퀵스타트: 첫 광고 상품 만들기
-- 광고 상품이란?
-- 광고 상품 생성하기
-- 유닛 세트 설정
-- 광고 상품 테스트하기
-- 사전 점검 캠페인
-- 광고 상품 수정하기
-- 광고 상품 삭제하기
-- 광고 상품 홍보하기
-- 고급 설정
-- 광고 상품 문제해결
+- ⚡ [퀵스타트: 첫 광고 상품 만들기](./ad-product/01-quickstart.md)
+- [광고 상품 생성하기](./ad-product/02-create-ad-product.md)
+- [광고 상품 관리하기](./ad-product/03-manage-ad-product.md)
+- [광고 상품 테스트하기](./ad-product/04-testing.md)
+- [광고 상품 홍보하기](./ad-product/05-promotion.md)
+- [고급 설정](./ad-product/06-advanced.md)
 
 ---
 
-## 5. 타겟팅 카테고리
+## 5. 타겟팅 구성하기
 
 👉 상세 내용: [plan-05-targeting.md](./plan-05-targeting.md)
 
