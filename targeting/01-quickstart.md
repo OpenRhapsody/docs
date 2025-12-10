@@ -18,6 +18,8 @@
 
 ## 단계별 가이드
 
+[▶ 영상 보기](./assets/quickstart-targeting.mp4)
+
 ### 1단계: 타겟팅 생성
 
 [애드컨트롤 콘솔](https://console.adrop.io)에 로그인하세요.

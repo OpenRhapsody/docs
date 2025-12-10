@@ -2,7 +2,7 @@
 
 오디언스 타겟팅은 사용자 속성(프로퍼티)을 기반으로 특정 사용자에게 광고를 노출하는 기능입니다.
 
-이 가이드에서는 **중고거래 앱**을 예시로 오디언스 타겟팅을 만드는 방법을 설명합니다. 사용자의 활동 지역과 거래 횟수를 조합하여 타겟팅 카테고리를 구성합니다.
+이 가이드에서는 **로컬 액티비티 앱**을 예시로 오디언스 타겟팅을 만드는 방법을 설명합니다. 사용자의 활동 지역과 예약 횟수를 조합하여 타겟팅 카테고리를 구성합니다.
 
 ---
 
@@ -31,16 +31,20 @@
 
 ## 커스텀 프로퍼티
 
+[▶ 영상 보기](./assets/targeting-properties.mp4)
+
 기본 프로퍼티 외에 서비스에 맞는 커스텀 프로퍼티를 추가할 수 있습니다.
 
-### 예시: 중고거래 앱
+### 예시: 로컬 액티비티 앱
 
-중고거래 앱에서 사용자의 활동 지역과 거래 횟수를 수집한다고 가정합니다.
+로컬 액티비티 앱에서 사용자의 활동 지역과 예약 횟수를 수집한다고 가정합니다.
 
 | 프로퍼티 | 타입 | 설명 | 값 예시 |
 |----------|------|------|---------|
-| `region` | 문자열 | 사용자의 활동 지역 | seoul, busan, gyeongju, jeju |
-| `trade_count` | 숫자 | 누적 거래 횟수 | 0, 5, 20, 100 |
+| `region` | 문자열 | 사용자의 활동 지역 | Seoul, Busan, Jeju |
+| `booking_count` | 숫자 | 누적 예약 횟수 | 0, 5, 20 |
+
+> ⚠️ 문자열 값은 대소문자를 구분합니다. SDK에서 전달하는 값과 동일하게 입력하세요.
 
 이 두 프로퍼티를 조합하면 다양한 타겟팅 카테고리를 만들 수 있습니다.
 
@@ -74,6 +78,8 @@
 ---
 
 ## 오디언스 타겟팅 생성하기
+
+[▶ 영상 보기](./assets/audience-targeting-category.mp4)
 
 ### 1단계: 타겟팅 유형 선택
 
@@ -116,24 +122,21 @@
 4. 필요시 **조건 추가**로 여러 조건을 조합합니다.
 5. **추가** 버튼을 클릭합니다.
 
-**예시: 중고거래 앱 카테고리 구성**
+**예시: 로컬 액티비티 앱 카테고리 구성**
 
-`region`과 `trade_count` 프로퍼티를 조합하여 다음과 같이 카테고리를 만듭니다.
+`region`과 `booking_count` 프로퍼티를 조합하여 "Regional User Tier" 타겟팅을 만듭니다.
 
 | 카테고리 | 조건 |
 |----------|------|
-| 서울 신규 | region = "seoul" AND trade_count < 5 |
-| 서울 활발 | region = "seoul" AND trade_count >= 5 AND trade_count < 20 |
-| 서울 파워셀러 | region = "seoul" AND trade_count >= 20 |
-| 부산 신규 | region = "busan" AND trade_count < 5 |
-| 부산 활발 | region = "busan" AND trade_count >= 5 AND trade_count < 20 |
-| 부산 파워셀러 | region = "busan" AND trade_count >= 20 |
-| 경주 신규 | region = "gyeongju" AND trade_count < 5 |
-| 경주 활발 | region = "gyeongju" AND trade_count >= 5 AND trade_count < 20 |
-| 경주 파워셀러 | region = "gyeongju" AND trade_count >= 20 |
-| 제주 신규 | region = "jeju" AND trade_count < 5 |
-| 제주 활발 | region = "jeju" AND trade_count >= 5 AND trade_count < 20 |
-| 제주 파워셀러 | region = "jeju" AND trade_count >= 20 |
+| 서울 신규 유저 | region is "Seoul" AND booking_count < 3 |
+| 서울 활성 유저 | region is "Seoul" AND booking_count >= 3 AND booking_count < 10 |
+| 서울 파워 유저 | region is "Seoul" AND booking_count >= 10 |
+| 부산 신규 유저 | region is "Busan" AND booking_count < 3 |
+| 부산 활성 유저 | region is "Busan" AND booking_count >= 3 AND booking_count < 10 |
+| 부산 파워 유저 | region is "Busan" AND booking_count >= 10 |
+| 제주 신규 유저 | region is "Jeju" AND booking_count < 3 |
+| 제주 활성 유저 | region is "Jeju" AND booking_count >= 3 AND booking_count < 10 |
+| 제주 파워 유저 | region is "Jeju" AND booking_count >= 10 |
 
 ### 4단계: 저장
 
@@ -142,6 +145,8 @@
 ---
 
 ## 카테고리 그룹 설정
+
+[▶ 영상 보기](./assets/audience-targeting-category-group.mp4)
 
 여러 카테고리를 하나로 묶어 광고주에게 제공할 수 있습니다.
 
@@ -153,21 +158,20 @@
 
 > ⚠️ 그룹으로 묶인 카테고리는 개별 선택이 불가능해집니다.
 
-**예시: 경상도 그룹 만들기**
+**예시: 해안 그룹 만들기**
 
-부산과 경주 카테고리를 묶어 "경상도" 그룹을 만듭니다.
+부산과 제주 카테고리를 묶어 "해안" 그룹을 만듭니다.
 
 | 그룹 | 포함 카테고리 |
 |------|---------------|
-| 경상도 신규 | 부산 신규, 경주 신규 |
-| 경상도 활발 | 부산 활발, 경주 활발 |
-| 경상도 파워셀러 | 부산 파워셀러, 경주 파워셀러 |
+| 해안 신규 유저 | 부산 신규 유저, 제주 신규 유저 |
+| 해안 활성 유저 | 부산 활성 유저, 제주 활성 유저 |
+| 해안 파워 유저 | 부산 파워 유저, 제주 파워 유저 |
 
 그룹 설정 후 광고주에게 표시되는 옵션:
 
-- 서울 신규, 서울 활발, 서울 파워셀러
-- 제주 신규, 제주 활발, 제주 파워셀러
-- **경상도 신규**, **경상도 활발**, **경상도 파워셀러** (그룹)
+- 서울 신규 유저, 서울 활성 유저, 서울 파워 유저
+- **해안 신규 유저**, **해안 활성 유저**, **해안 파워 유저** (그룹)
 
 ---
 
