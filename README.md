@@ -71,34 +71,22 @@
 
 ---
 
-## 6. 캠페인 예약하기
+## 6. 캠페인 예약하기 (광고주)
 
-👉 상세 내용: [plan-06-campaign-booking.md](./plan-06-campaign-booking.md)
+👉 상세 내용: [campaign/index.md](./campaign/index.md)
 
-- ⚡ 퀵스타트: 첫 캠페인 예약하기
-- 캠페인이란?
-- 광고 계정 만들기
-  - 광고 플랫폼 접속
-  - 광고 계정 생성
-  - 광고주 프로필
-  - 결제 프로필 설정
-  - 멤버 관리
-- 캠페인 예약하기
-  - 광고 상품 선택
-  - 기간/예산/타겟팅 설정
-  - 노출 빈도 제한
-- 소재 등록하기
-- 결제 및 제출
-- 예약 후 확인하기
-- 스플래시 광고 예약 가이드
-- 동영상 광고 예약 가이드
-- 알림
-- 주의사항
-- 광고 정책
+- ⚡ [퀵스타트: 첫 캠페인 예약하기](./campaign/01-quickstart.md)
+- [광고 계정 만들기](./campaign/02-ad-account.md)
+- [캠페인 예약하기](./campaign/03-booking.md)
+- [소재 등록하기](./campaign/04-creative.md)
+- [캠페인 관리하기](./campaign/05-campaign-management.md)
+- [성과 확인하기](./campaign/06-performance.md)
+- [스플래시 광고 가이드](./campaign/07-splash-guide.md)
+- [광고 정책](./campaign/08-policy.md)
 
 ---
 
-## 7. 캠페인 관리하기
+## 7. 캠페인 관리하기 (매체사)
 
 👉 상세 내용: [plan-07-campaign-management.md](./plan-07-campaign-management.md)
 
@@ -113,7 +101,6 @@
 - 매체사 직접 예약
   - 캠페인 생성하기
   - 소재 등록하기
-  - 소재 미리보기
   - InHouse 캠페인
 - 알림
 - 운영 설정
