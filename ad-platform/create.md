@@ -2,7 +2,7 @@
 
 ## 생성 방법
 
-<img src="./assets/ad-platform-launcher.gif" width="720" />
+<img src="./assets/ad-platform-quickstart.gif" width="720" />
 
 1. 좌측 상단의 프로젝트 이름 클릭
 2. 드롭다운 메뉴 하단의 **[새로운 광고 플랫폼 배포하기]** 클릭

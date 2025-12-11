@@ -4,7 +4,7 @@
 
 ## 사용 방법
 
-[▶ 영상 보기](./assets/doc2-dashboard.mp4)
+[▶ 영상 보기](./assets/ad-platform-dashboard.mp4)
 
 1. 좌측 메뉴에서 **[대시보드]** 클릭
 2. 상단에서 조회할 월 선택

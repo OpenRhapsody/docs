@@ -20,7 +20,7 @@
 
 ## 단계별 가이드
 
-[▶ 영상 보기](./assets/create-ad-product.mp4)
+[▶ 영상 보기](./assets/ad-product-create.mp4)
 
 ### 1단계: 상품 정보 입력
 

@@ -22,7 +22,7 @@
 
 ### 계정 생성 방법
 
-<img src="./assets/create-ad-account.gif" width="720" />
+<img src="./assets/campaign-ad-account-create.gif" width="720" />
 
 1. 좌측 상단의 광고 계정 이름 클릭
 2. 드롭다운 메뉴 하단의 **[+ 생성]** 클릭
@@ -101,7 +101,7 @@
 
 결제 프로필을 팀원과 함께 사용하려면 멤버를 초대합니다.
 
-<img src="./assets/payment-profile-members.gif" width="720" />
+<img src="./assets/campaign-ad-account-members.gif" width="720" />
 
 1. **계정 모달** > **나의 결제 프로필**에서 공유할 프로필 선택
 2. **멤버 초대** 클릭

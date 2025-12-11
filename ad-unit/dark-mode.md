@@ -2,7 +2,7 @@
 
 앱의 다크 모드에 맞는 광고 소재를 제공하는 방법을 안내합니다.
 
-<img src="./assets/darkmode.avif" alt="다크 모드 설정">
+<img src="./assets/ad-unit-darkmode.avif" alt="다크 모드 설정">
 
 ---
 

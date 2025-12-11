@@ -79,7 +79,7 @@
 
 ## 오디언스 타겟팅 생성하기
 
-[▶ 영상 보기](./assets/audience-targeting-category.mp4)
+[▶ 영상 보기](./assets/targeting-audience-category.mp4)
 
 ### 1단계: 타겟팅 유형 선택
 
@@ -146,7 +146,7 @@
 
 ## 카테고리 그룹 설정
 
-[▶ 영상 보기](./assets/audience-targeting-category-group.mp4)
+[▶ 영상 보기](./assets/targeting-audience-category-group.mp4)
 
 여러 카테고리를 하나로 묶어 광고주에게 제공할 수 있습니다.
 

@@ -18,7 +18,7 @@
 
 [▶ 영상 보기](./assets/ad-unit-banner.mp4)
 
-<img src="./assets/format-banner.png" alt="배너 광고" height="360">
+<img src="./assets/ad-unit-format-banner.png" alt="배너 광고" height="360">
 
 고정 영역에 표시되는 직사각형 광고입니다. 가장 보편적인 형태로, 화면 상단이나 하단에 띠 형태로 노출됩니다.
 
@@ -107,7 +107,7 @@
 
 [▶ 영상 보기](./assets/ad-unit-splash.mp4)
 
-<img src="./assets/format-splash.png" alt="스플래시 광고" height="360">
+<img src="./assets/ad-unit-format-splash.png" alt="스플래시 광고" height="360">
 
 앱 처음 시작할 때 표시되는 광고입니다. 전체 화면을 차지하여 브랜드 첫인상 효과가 뛰어납니다.
 
@@ -140,7 +140,7 @@
 
 [▶ 영상 보기](./assets/ad-unit-popup.mp4)
 
-<img src="./assets/format-popup.png" alt="팝업 광고" height="360">
+<img src="./assets/ad-unit-format-popup.png" alt="팝업 광고" height="360">
 
 화면 일부에 팝업으로 표시되는 광고입니다. 하단 또는 중앙에 노출되며, 화면을 가리며 등장하기 때문에 가시성이 높습니다.
 
@@ -214,7 +214,7 @@
 
 [▶ 영상 보기](./assets/ad-unit-native.mp4)
 
-<img src="./assets/format-native.png" alt="네이티브 광고" height="360">
+<img src="./assets/ad-unit-format-native.png" alt="네이티브 광고" height="360">
 
 앱이나 웹사이트의 콘텐츠 디자인과 자연스럽게 어우러지는 광고입니다. 뉴스 피드 사이에 있는 기사형 광고가 대표적이며, UI를 자유롭게 커스터마이징할 수 있습니다.
 
@@ -257,7 +257,7 @@
 
 ## 전면 (Interstitial)
 
-<img src="./assets/format-interstitial.png" alt="전면 광고" height="360">
+<img src="./assets/ad-unit-format-interstitial.png" alt="전면 광고" height="360">
 
 앱/웹의 화면을 가리는 전체 화면 광고입니다. 주로 게임의 레벨이 끝날 때나 페이지가 전환되는 시점처럼 사용자 활동이 일시적으로 멈출 때 노출됩니다.
 
@@ -280,7 +280,7 @@
 
 ## 보상형 (Rewarded)
 
-<img src="./assets/format-rewarded.png" alt="보상형 광고" height="360">
+<img src="./assets/ad-unit-format-rewarded.png" alt="보상형 광고" height="360">
 
 앱 내 보상을 받는 대신 동영상 시청을 유도하는 광고입니다. 유저가 광고를 끝까지 시청하면 아이템, 포인트, 생명 등의 보상을 지급합니다. 모바일 게임에서 자주 활용됩니다.
 

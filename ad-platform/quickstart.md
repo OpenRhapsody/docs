@@ -16,7 +16,7 @@
 
 ## 단계별 가이드
 
-[▶ 영상 보기](./assets/create-ad-platform.mp4)
+[▶ 영상 보기](./assets/ad-platform-create.mp4)
 
 1. 서비스 이름 입력 (2~20자, 한글/영문/숫자)
 2. 로고 이미지 업로드

@@ -2,7 +2,7 @@
 
 캠페인 성과를 조회하고 리포트를 다운로드하는 방법을 설명합니다.
 
-<img src="./assets/campaign-report.gif" width="720" />
+<img src="./assets/campaign-analytics.gif" width="720" />
 
 ---
 

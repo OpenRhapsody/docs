@@ -18,7 +18,7 @@
 
 ## 단계별 가이드
 
-[▶ 영상 보기](./assets/quickstart-targeting.mp4)
+[▶ 영상 보기](./assets/targeting-quickstart.mp4)
 
 ### 1단계: 타겟팅 생성
 

@@ -6,7 +6,7 @@
 
 ## 생성 절차
 
-[▶ 영상 보기](./assets/create-ad-unit.mp4)
+[▶ 영상 보기](./assets/ad-unit-create.mp4)
 
 ### 1단계: 앱 선택
 

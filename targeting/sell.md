@@ -6,7 +6,7 @@
 
 ## 카테고리 판매 시작하기
 
-[▶ 영상 보기](./assets/sell-targeting.mp4)
+[▶ 영상 보기](./assets/targeting-sell.mp4)
 
 타겟팅을 생성한 후, 카테고리별로 판매를 시작해야 합니다.
 
@@ -33,7 +33,7 @@
 
 ## 광고 상품에 연결하기
 
-[▶ 영상 보기](./assets/attach-targeting.mp4)
+[▶ 영상 보기](./assets/targeting-attach.mp4)
 
 판매 중인 타겟팅을 광고 상품에 연결합니다. 연결된 타겟팅만 광고주가 캠페인 예약 시 선택할 수 있습니다.
 

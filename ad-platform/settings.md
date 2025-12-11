@@ -4,7 +4,7 @@
 
 ## 수정 방법
 
-[▶ 영상 보기](./assets/edit-ad-platform.mp4)
+[▶ 영상 보기](./assets/ad-platform-settings.mp4)
 
 1. 좌측 메뉴에서 **[설정]** 클릭
 2. **[광고 프로필]** 탭 선택

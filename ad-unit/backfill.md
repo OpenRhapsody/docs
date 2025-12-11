@@ -45,7 +45,7 @@ AdMob, AppLovin 등 네트워크 광고는 빈 인벤토리를 채워주지만, 
 
 ## 활성화하기
 
-![백필 광고 활성화](./assets/backfill_ko.avif)
+![백필 광고 활성화](./assets/ad-unit-backfill.avif)
 
 ### 활성화 절차
 
