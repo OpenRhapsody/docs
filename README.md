@@ -22,12 +22,12 @@
 
 👉 상세 내용: [ad-platform/index.md](./ad-platform/index.md)
 
-- ⚡ [퀵스타트: 3분 배포](./ad-platform/01-quickstart.md)
-- [광고 플랫폼 생성하기](./ad-platform/02-create-ad-platform.md)
-- [광고 플랫폼 설정하기](./ad-platform/03-edit-ad-platform.md)
-- [대시보드](./ad-platform/04-dashboard.md)
-- [결제 및 청구](./ad-platform/05-billing.md)
-- [멤버 관리](./ad-platform/06-members.md)
+- ⚡ [퀵스타트: 3분 배포](./ad-platform/quickstart.md)
+- [광고 플랫폼 생성하기](./ad-platform/create.md)
+- [광고 플랫폼 설정하기](./ad-platform/settings.md)
+- [대시보드](./ad-platform/dashboard.md)
+- [결제 및 청구](./ad-platform/billing.md)
+- [멤버 관리](./ad-platform/members.md)
 
 ---
 
@@ -35,13 +35,13 @@
 
 👉 상세 내용: [ad-unit/index.md](./ad-unit/index.md)
 
-- ⚡ [퀵스타트: 첫 광고 유닛 만들기](./ad-unit/01-quickstart.md)
-- [광고 유닛 포맷](./ad-unit/02-formats.md)
-- [동영상 광고 유닛](./ad-unit/03-video.md)
-- [다크 모드 지원하기](./ad-unit/04-dark-mode.md)
-- [광고 유닛 생성하기](./ad-unit/05-create-ad-unit.md)
-- [광고 유닛 관리하기](./ad-unit/06-manage-ad-unit.md)
-- [백필 광고로 수익 극대화하기](./ad-unit/07-backfill.md)
+- ⚡ [퀵스타트: 첫 광고 유닛 만들기](./ad-unit/quickstart.md)
+- [광고 유닛 포맷](./ad-unit/formats.md)
+- [동영상 광고 유닛](./ad-unit/video.md)
+- [다크 모드 지원하기](./ad-unit/dark-mode.md)
+- [광고 유닛 생성하기](./ad-unit/create.md)
+- [광고 유닛 관리하기](./ad-unit/manage.md)
+- [백필 광고로 수익 극대화하기](./ad-unit/backfill.md)
 
 ---
 
@@ -49,12 +49,12 @@
 
 👉 상세 내용: [ad-product/index.md](./ad-product/index.md)
 
-- ⚡ [퀵스타트: 첫 광고 상품 만들기](./ad-product/01-quickstart.md)
-- [광고 상품 생성하기](./ad-product/02-create-ad-product.md)
-- [광고 상품 관리하기](./ad-product/03-manage-ad-product.md)
-- [광고 상품 테스트하기](./ad-product/04-testing.md)
-- [광고 상품 홍보하기](./ad-product/05-promotion.md)
-- [고급 설정](./ad-product/06-advanced.md)
+- ⚡ [퀵스타트: 첫 광고 상품 만들기](./ad-product/quickstart.md)
+- [광고 상품 생성하기](./ad-product/create.md)
+- [광고 상품 관리하기](./ad-product/manage.md)
+- [광고 상품 테스트하기](./ad-product/testing.md)
+- [광고 상품 홍보하기](./ad-product/promotion.md)
+- [고급 설정](./ad-product/advanced.md)
 
 ---
 
@@ -62,12 +62,12 @@
 
 👉 상세 내용: [targeting/index.md](./targeting/index.md)
 
-- ⚡ [퀵스타트: 첫 타겟팅 판매하기](./targeting/01-quickstart.md)
-- [오디언스 타겟팅 만들기](./targeting/02-audience.md)
-- [문맥 타겟팅 만들기](./targeting/03-context.md)
-- [타겟팅 판매하기](./targeting/04-sell-targeting.md)
-- [타겟팅 관리하기](./targeting/05-manage-targeting.md)
-- [카테고리 규칙 상세 가이드](./targeting/06-category-rules.md)
+- ⚡ [퀵스타트: 첫 타겟팅 판매하기](./targeting/quickstart.md)
+- [오디언스 타겟팅 만들기](./targeting/audience.md)
+- [문맥 타겟팅 만들기](./targeting/context.md)
+- [타겟팅 판매하기](./targeting/sell.md)
+- [타겟팅 관리하기](./targeting/manage.md)
+- [카테고리 규칙 상세 가이드](./targeting/category-rules.md)
 
 ---
 
@@ -75,14 +75,14 @@
 
 👉 상세 내용: [campaign/index.md](./campaign/index.md)
 
-- ⚡ [퀵스타트: 첫 캠페인 예약하기](./campaign/01-quickstart.md)
-- [광고 계정 만들기](./campaign/02-ad-account.md)
-- [캠페인 예약하기](./campaign/03-booking.md)
-- [소재 등록하기](./campaign/04-creative.md)
-- [캠페인 관리하기](./campaign/05-campaign-management.md)
-- [성과 확인하기](./campaign/06-performance.md)
-- [스플래시 광고 가이드](./campaign/07-splash-guide.md)
-- [광고 정책](./campaign/08-policy.md)
+- ⚡ [퀵스타트: 첫 캠페인 예약하기](./campaign/quickstart.md)
+- [광고 계정 만들기](./campaign/ad-account.md)
+- [캠페인 예약하기](./campaign/booking.md)
+- [소재 등록하기](./campaign/creative.md)
+- [캠페인 운영하기](./campaign/operation.md)
+- [분석 및 리포트](./campaign/analytics.md)
+- [스플래시 광고 가이드](./campaign/splash-guide.md)
+- [광고 정책](./campaign/policy.md)
 
 ---
 
@@ -98,37 +98,19 @@
 - 캠페인 운영하기
   - 캠페인 상세 정보
   - 캠페인 수정/일시정지/취소/복제
+  - 소재 미리보기
+  - 도착 URL 브라우저 설정
 - 매체사 직접 예약
   - 캠페인 생성하기
   - 소재 등록하기
   - InHouse 캠페인
 - 알림
 - 운영 설정
+  - 광고주 리포트 설정
 
 ---
 
-## 8. 분석 및 리포트
-
-👉 상세 내용: [plan-08-report.md](./plan-08-report.md)
-
-- ⚡ 퀵스타트: 리포트 확인하기
-- 리포트란?
-- 지표 이해하기
-  - 기본 지표 (노출, 클릭, CTR)
-  - 비용 지표 (CPM, CPC, CPP)
-  - 정산 지표 (매체사)
-- 리포트 조회하기
-  - 조회 기준 (캠페인/상품/유닛/소재/Backfill)
-  - 세그먼트, 필터링, 롤업, 정렬
-- 리포트 다운로드
-  - 컬럼 선택
-- 광고주 리포트 설정
-  - 광고주/매체사 리포트 차이
-- 리포트 컬럼 설명
-
----
-
-## 9. 정산과 청구
+## 8. 정산과 청구
 
 👉 상세 내용: [plan-09-settlement.md](./plan-09-settlement.md)
 
@@ -144,7 +126,7 @@
 
 ---
 
-## 10. 광고 계정
+## 9. 광고 계정
 
 👉 상세 내용: [plan-10-advertiser.md](./plan-10-advertiser.md)
 

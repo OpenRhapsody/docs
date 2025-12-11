@@ -115,9 +115,9 @@
 
 ## 목차
 
-- ⚡ [퀵스타트: 첫 광고 상품 만들기](./01-quickstart.md)
-- [광고 상품 생성하기](./02-create-ad-product.md)
-- [광고 상품 관리하기](./03-manage-ad-product.md)
-- [광고 상품 테스트하기](./04-testing.md)
-- [광고 상품 홍보하기](./05-promotion.md)
-- [고급 설정](./06-advanced.md)
+- ⚡ [퀵스타트: 첫 광고 상품 만들기](./quickstart.md)
+- [광고 상품 생성하기](./create.md)
+- [광고 상품 관리하기](./manage.md)
+- [광고 상품 테스트하기](./testing.md)
+- [광고 상품 홍보하기](./promotion.md)
+- [고급 설정](./advanced.md)

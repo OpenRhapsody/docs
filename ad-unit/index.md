@@ -51,10 +51,10 @@
 
 ## 목차
 
-- ⚡ [퀵스타트: 첫 광고 유닛 만들기](./01-quickstart.md)
-- [광고 유닛 포맷](./02-formats.md)
-- [동영상 광고 유닛](./03-video.md)
-- [다크 모드 지원하기](./04-dark-mode.md)
-- [광고 유닛 생성하기](./05-create-ad-unit.md)
-- [광고 유닛 관리하기](./06-manage-ad-unit.md)
-- [백필 광고로 추가 수익화하기](./07-backfill.md)
+- ⚡ [퀵스타트: 첫 광고 유닛 만들기](./quickstart.md)
+- [광고 유닛 포맷](./formats.md)
+- [동영상 광고 유닛](./video.md)
+- [다크 모드 지원하기](./dark-mode.md)
+- [광고 유닛 생성하기](./create.md)
+- [광고 유닛 관리하기](./manage.md)
+- [백필 광고로 추가 수익화하기](./backfill.md)

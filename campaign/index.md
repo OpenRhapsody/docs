@@ -64,11 +64,11 @@
 
 ## 목차
 
-- [⚡ 퀵스타트: 첫 캠페인 예약하기](./01-quickstart.md)
-- [광고 계정 만들기](./02-ad-account.md)
-- [캠페인 예약하기](./03-booking.md)
-- [소재 등록하기](./04-creative.md)
-- [캠페인 관리하기](./05-campaign-management.md)
-- [성과 확인하기](./06-performance.md)
-- [스플래시 광고 가이드](./07-splash-guide.md)
-- [광고 정책](./08-policy.md)
+- [⚡ 퀵스타트: 첫 캠페인 예약하기](./quickstart.md)
+- [광고 계정 만들기](./ad-account.md)
+- [캠페인 예약하기](./booking.md)
+- [소재 등록하기](./creative.md)
+- [캠페인 운영하기](./operation.md)
+- [분석 및 리포트](./analytics.md)
+- [스플래시 광고 가이드](./splash-guide.md)
+- [광고 정책](./policy.md)
