@@ -48,7 +48,10 @@
 
 - ⚡ [퀵스타트: 캠페인 심사하기](./quickstart.md)
 - [캠페인 심사하기](./review.md)
-- [캠페인 운영하기](./operation.md)
+- [캠페인 상세 정보](./detail.md)
+- [캠페인 지원하기](./support.md)
+- [캠페인 알림](./notifications.md)
+- [캠페인 리포트](./reports.md)
 - [매체사 직접 예약](./direct-booking.md)
 - [운영 설정](./settings.md)
 

@@ -86,27 +86,18 @@
 
 ---
 
-## 7. 캠페인 관리하기 (매체사)
+## 7. 캠페인 관리하기
 
-👉 상세 내용: [plan-07-campaign-management.md](./plan-07-campaign-management.md)
+👉 상세 내용: [management/index.md](./management/index.md)
 
-- ⚡ 퀵스타트: 캠페인 심사하기
-- 캠페인 현황 조회
-- 캠페인 심사하기
-  - 캠페인 승인/거절
-  - 소재 심사하기
-- 캠페인 운영하기
-  - 캠페인 상세 정보
-  - 캠페인 수정/일시정지/취소/복제
-  - 소재 미리보기
-  - 도착 URL 브라우저 설정
-- 매체사 직접 예약
-  - 캠페인 생성하기
-  - 소재 등록하기
-  - InHouse 캠페인
-- 알림
-- 운영 설정
-  - 광고주 리포트 설정
+- ⚡ [퀵스타트: 캠페인 심사하기](./management/quickstart.md)
+- [캠페인 심사하기](./management/review.md)
+- [캠페인 상세 정보](./management/detail.md)
+- [캠페인 지원하기](./management/support.md)
+- [캠페인 알림](./management/notifications.md)
+- [캠페인 리포트](./management/reports.md)
+- [매체사 직접 예약](./management/direct-booking.md)
+- [운영 설정](./management/settings.md)
 
 ---
 
@@ -124,17 +115,3 @@
 - 애드컨트롤 인프라 비용
   - 요금제 (Stream/Wave), 결제 수단, 청구 주기, 환불 정책
 
----
-
-## 9. 광고 계정
-
-👉 상세 내용: [plan-10-advertiser.md](./plan-10-advertiser.md)
-
-- ⚡ 퀵스타트: 광고 계정 생성하기
-- 광고 계정이란?
-- 광고주 목록
-  - 계정 정보, 청구 정보 조회
-- 광고 계정 생성
-  - 매체사가 직접 생성
-  - 광고주가 직접 가입
-- 광고주 권한 설정
