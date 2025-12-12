@@ -101,17 +101,16 @@
 
 ## 매체사 퀵스타트
 
-> ⏱️ 총 예상 소요 시간: 약 35분
+> ⏱️ 총 예상 소요 시간: 약 27분
 
 | 단계 | 가이드 | 소요 시간 |
 |------|--------|-----------|
-| 1 | ⚡ [퀵스타트: 3분 배포](../ad-platform/01-quickstart.md) | 3분 |
-| 2 | ⚡ [첫 유닛 만들기](../doc-03-ad-unit.md) | 5분 |
-| 3 | ⚡ [첫 광고 상품 만들기](../doc-04-ad-product.md) | 5분 |
-| 4 | ⚡ [첫 타겟팅 판매하기](../doc-05-targeting.md) | 10분 |
-| 5 | ⚡ [캠페인 심사하기](../doc-07-campaign-management.md) | 3분 |
-| 6 | ⚡ [리포트 확인하기](../doc-08-report.md) | 3분 |
-| 7 | ⚡ [정산 정보 등록하기](../doc-09-settlement.md) | 5분 |
+| 1 | ⚡ [퀵스타트: 3분 배포](../ad-platform/quickstart.md) | 3분 |
+| 2 | ⚡ [퀵스타트: 첫 광고 유닛 만들기](../ad-unit/quickstart.md) | 5분 |
+| 3 | ⚡ [퀵스타트: 첫 광고 상품 만들기](../ad-product/quickstart.md) | 5분 |
+| 4 | ⚡ [퀵스타트: 첫 타겟팅 판매하기](../targeting/quickstart.md) | 10분 |
+| 5 | ⚡ [퀵스타트: 캠페인 심사하기](../management/quickstart.md) | 3분 |
+| 6 | ⚡ [퀵스타트: 플랜 업그레이드하기](../settlement/quickstart.md) | 3분 |
 
 ---
 
@@ -121,8 +120,8 @@
 
 | 단계 | 가이드 | 소요 시간 |
 |------|--------|-----------|
-| 1 | ⚡ [첫 캠페인 예약하기](../doc-06-campaign-booking.md) | 10분 |
-| 2 | ⚡ [리포트 확인하기](../doc-08-report.md) | 3분 |
+| 1 | ⚡ [퀵스타트: 첫 캠페인 예약하기](../campaign/quickstart.md) | 10분 |
+| 2 | [분석 및 리포트](../campaign/analytics.md) | 3분 |
 
 ---
 
@@ -132,4 +131,4 @@
 👉 [광고 플랫폼 배포](../ad-platform/index.md)로 시작하세요.
 
 ### 광고주라면
-👉 매체사에게 광고 플랫폼 링크를 요청한 후, [캠페인 예약하기](../doc-06-campaign-booking.md)를 참고하세요.
+👉 매체사에게 광고 플랫폼 링크를 요청한 후, [캠페인 예약하기](../campaign/quickstart.md)를 참고하세요.
